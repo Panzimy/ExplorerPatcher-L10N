@@ -52,7 +52,7 @@ BEGIN
     IDS_TB_POSLEFT              "Vlevo"
     IDS_TB_POSRIGHT             "Vpravo"
     IDS_TB_SECONDARYTBPOS       "Umístění sekundárních Hlavních panelů na obrazovce"
-    IDS_TB_EXTRABTN             "Přídané tlačítko by mělo být:"
+    IDS_TB_EXTRABTN             "Přidané tlačítko by mělo být:"
     IDS_TB_EXTRABTN_0           "Skryté (výchozí)"
     IDS_TB_EXTRABTN_2           "Viditelné a otevírat Cortanu"
     IDS_TB_EXTRABTN_1           "Viditelné a otevírat widgety"
